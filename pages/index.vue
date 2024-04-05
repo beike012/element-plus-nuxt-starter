@@ -2,12 +2,13 @@
   <div class="page-index">
     <Logos />
     <Examples />
+    <Home/>
   </div>
 </template>
 
 <style>
 .page-index {
-  padding-top: 60px;
-  text-align: center;
+  width: 100%;
+  height: 100%;
 }
 </style>

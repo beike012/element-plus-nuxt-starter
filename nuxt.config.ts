@@ -3,13 +3,13 @@ export default defineNuxtConfig({
   app: {
     // head
     head: {
-      title: 'Element Plus + Nuxt 3',
+      title: '贝壳之家',
       meta: [
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         {
           hid: 'description',
           name: 'description',
-          content: 'ElementPlus + Nuxt3',
+          content: '贝壳的个人官网',
         },
       ],
       link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
